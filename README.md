@@ -52,8 +52,4 @@ Type anywhere in your terminal "easysploit".
 # Support us: 
 
 https://www.patreon.com/electron
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
 
