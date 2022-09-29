@@ -1,1 +1,97 @@
-# easysploit
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@karimullah0
+KALILINUXTRICKSYT /
+easysploit
+Public
+
+Code
+Issues 10
+Pull requests
+Actions
+Projects
+Security
+
+    Insights
+
+easysploit/README.md
+@KALILINUXTRICKSYT
+KALILINUXTRICKSYT Update README.md
+Latest commit e6f13db on Jan 30, 2020
+History
+1 contributor
+60 lines (31 sloc) 1.38 KB
+# EasySploit
+EasySploit v4.2 (Linux) - Metasploit automation (EASIER and FASTER than EVER) 
+
+# Disclaimer:
+
+ Usage of EASYSPLOIT for attacking targets without prior mutual consent is
+ ILLEGAL. Developers are not responsible for any damage caused by this script.
+ EASYSPLOIT is intented ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!! 
+ 
+# Options:
+
+(1) Windows --> test.exe (payload and listener) 
+
+(2) Android --> test.apk (payload and listener)
+
+(3) Linux --> test.py (payload and listener) 
+
+(4) MacOS --> test.jar (payload and listener)
+
+(5) Web --> test.php (payload and listener)
+
+(6) Scan if a target is vulnerable to ms17_010
+
+(7) Exploit Windows 7/2008 x64 ONLY by IP (ms17_010_eternalblue)
+
+(7rd) Enable Remote Desktop (ms17_010_eternalblue)
+
+(8) Exploit Windows Vista/XP/2000/2003 ONLY by IP (ms17_010_psexec) 
+
+(8rd) Enable Remote Desktop (ms17_010_psexec)
+
+(9) Exploit Windows with a link (HTA Server)
+
+(10) Contact with us - Our accounts
+
+
+# How to install (The terminal must be launched as root user):
+
+
+ 
+cd easysploit
+
+bash installer.sh
+
+# How to run (after installation):
+
+Type anywhere in your terminal "easysploit".
+
+
+
+# Support us: 
+
+https://www.patreon.com/electron
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+easysploit/README.md at master · KALILINUXTRICKSYT/easysploit
